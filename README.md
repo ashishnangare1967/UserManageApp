@@ -3,6 +3,7 @@
 
 ## Postman Link:
 https://documenter.getpostman.com/view/30553371/2sAXxS9CBy
+In postman I have provided backend deployed link so don't need to follow below procedure if you are clcking above link
 
 ## **Description**
 The **User Management API** is a backend system built using Node.js, Express, and TypeScript, with MongoDB as the database. It provides user registration, login, and admin functionalities, utilizing JWT for authentication and role-based access control (RBAC).
