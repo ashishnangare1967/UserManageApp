@@ -1,7 +1,7 @@
 
 # **User Management API**
 
-## Postmamn Link:
+## Postman Link:
 https://documenter.getpostman.com/view/30553371/2sAXxS9CBy
 
 ## **Description**
